@@ -1,7 +1,7 @@
 ---
 title: react-native-cli
 date: 2018-08-17 23:07:38
-tags:
+tags: react
 ---
 
 ## react native 命令
